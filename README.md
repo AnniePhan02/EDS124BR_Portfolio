@@ -4,3 +4,5 @@
 
 ## Week 2
 [Write and Explain a Program](https://youtu.be/KBO8Y6Etx38)
+
+[Animal Parade](https://youtu.be/Zub08RRp17Y)
