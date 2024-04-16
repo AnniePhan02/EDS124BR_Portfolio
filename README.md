@@ -6,3 +6,6 @@
 [Write and Explain a Program](https://youtu.be/KBO8Y6Etx38)
 
 [Animal Parade](https://youtu.be/Zub08RRp17Y)
+
+## Week 3
+[Nested Repeats](https://youtu.be/n2ZutOo4ZYE)
