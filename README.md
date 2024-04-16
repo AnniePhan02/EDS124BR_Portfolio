@@ -9,3 +9,5 @@
 
 ## Week 3
 [Nested Repeats](https://youtu.be/n2ZutOo4ZYE)
+
+[Code Events](https://youtu.be/jqW_koeR4NE)
