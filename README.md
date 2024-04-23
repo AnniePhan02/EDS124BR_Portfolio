@@ -11,3 +11,6 @@
 [Nested Repeats](https://youtu.be/n2ZutOo4ZYE)
 
 [Code Events](https://youtu.be/jqW_koeR4NE)
+
+## Week 4
+[Variables](https://youtu.be/aOAZyh4LSPs)
