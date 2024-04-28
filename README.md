@@ -17,3 +17,6 @@
 
 ## Week 5
 [Conditional Loops](https://youtu.be/-P861dkRnaA)
+
+## Week 6
+[If-Statements](https://youtu.be/BE0qwe_QUpc)
