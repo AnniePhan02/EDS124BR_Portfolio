@@ -20,3 +20,6 @@
 
 ## Week 6
 [If-Statements](https://youtu.be/BE0qwe_QUpc)
+
+## Week 7
+[Nested If-Statements](https://youtu.be/KwjxhNPyaUU)
