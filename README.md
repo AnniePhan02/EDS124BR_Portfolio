@@ -23,3 +23,6 @@
 
 ## Week 7
 [Nested If-Statements](https://youtu.be/KwjxhNPyaUU)
+
+## Week 8
+[Compound Conditionals](https://youtu.be/jTZCZ3-jxng)
