@@ -26,3 +26,6 @@
 
 ## Week 8
 [Compound Conditionals](https://youtu.be/jTZCZ3-jxng)
+
+## Week 9
+[Methods](https://youtu.be/cTufjYShb24)
