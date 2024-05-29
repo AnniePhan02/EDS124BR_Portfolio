@@ -29,3 +29,6 @@
 
 ## Week 9
 [Methods](https://youtu.be/cTufjYShb24)
+
+## Week 10
+[Lists](https://youtu.be/vW03xhb07oE)
